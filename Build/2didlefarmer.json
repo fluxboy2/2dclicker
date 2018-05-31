@@ -1,0 +1,13 @@
+{
+"companyName": "Thomas G Web Design",
+"productName": "2D Idle Farmer",
+"dataUrl": "2didlefarmer.data.unityweb",
+"asmCodeUrl": "2didlefarmer.asm.code.unityweb",
+"asmMemoryUrl": "2didlefarmer.asm.memory.unityweb",
+"asmFrameworkUrl": "2didlefarmer.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
